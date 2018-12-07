@@ -1,1 +1,5 @@
-<script id="cid0020000203087157929" data-cfasync="false" async="async" src="//st.chatango.com/js/gz/emb.js" style="width: 300px;height: 400px;" >{"handle":"yuinime","arch":"js","styles":{"a":"74b9ff","b":100,"c":"000000","d":"000000","k":"74b9ff","l":"74b9ff","m":"74b9ff","p":"10","q":"74b9ff","r":100,"pos":"br","cv":1,"cvbg":"74b9ff","cvfg":"000000","cvw":400,"cvh":30,"ticker":1,"fwtickm":1}}</script>
+<script>
+info="<script id=&#34;cid0020000203087157929&#34; data-cfasync=&#34;false&#34; async=&#34;async&#34; src=&#34;//st.chatango.com/js/gz/emb.js&#34; style=&#34;width: 300px;height: 400px;&#34; >{&#34;handle&#34;:&#34;yuinime&#34;,&#34;arch&#34;:&#34;js&#34;,&#34;styles&#34;:{&#34;a&#34;:&#34;74b9ff&#34;,&#34;b&#34;:100,&#34;c&#34;:&#34;000000&#34;,&#34;d&#34;:&#34;000000&#34;,&#34;k&#34;:&#34;74b9ff&#34;,&#34;l&#34;:&#34;74b9ff&#34;,&#34;m&#34;:&#34;74b9ff&#34;,&#34;p&#34;:&#34;10&#34;,&#34;q&#34;:&#34;74b9ff&#34;,&#34;r&#34;:100,&#34;pos&#34;:&#34;br&#34;,&#34;cv&#34;:1,&#34;cvbg&#34;:&#34;74b9ff&#34;,&#34;cvfg&#34;:&#34;000000&#34;,&#34;cvw&#34;:400,&#34;cvh&#34;:30,&#34;ticker&#34;:1,&#34;fwtickm&#34;:1}}</script>"
+
+document.write(info)
+</script>
