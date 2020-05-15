@@ -1,3 +1,1 @@
-<!--
-document.write( '<script id=\"cid0020000203087157929\" data-cfasync=\"false\" async=\"async\" src=\"//st.chatango.com/js/gz/emb.js\" style=\"width: 300px;height: 400px;\" >{\"handle\":\"yuinime\",\"arch\":\"js\",\"styles\":{\"a\":\"74b9ff\",\"b\":100,\"c\":\"000000\",\"d\":\"000000\",\"k\":\"74b9ff\",\"l\":\"74b9ff\",\"m\":\"74b9ff\",\"p\":\"10\",\"q\":\"74b9ff\",\"r\":100,\"pos\":\"br\",\"cv\":1,\"cvbg\":\"74b9ff\",\"cvfg\":\"000000\",\"cvw\":400,\"cvh\":30,\"ticker\":1,\"fwtickm\":1}}</script>' );
-//-->
+<script async defer id="cid0020000237128983859" src="//st.chatango.com/js/gz/emb.js" data-cfasync="true" style="width: 300px;height: 400px;">{"handle":"asagi-chan","arch":"js","styles":{"a":"03a9f5","b":100,"c":"FFFFFF","d":"FFFFFF","k":"03a9f5","l":"03a9f5","m":"03a9f5","n":"FFFFFF","p":"10","q":"03a9f5","r":100,"usricon":0.85,"surl":0,"cnrs":"0.35","fwtickm":1}}</script>
