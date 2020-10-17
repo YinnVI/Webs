@@ -6,6 +6,5 @@
 .danger { 
     background-color: #ffdddd; 
     border-left: 6px solid #f44336; 
-    max-width: 725px;
-    margin: auto;
+    display:flex;
 }
